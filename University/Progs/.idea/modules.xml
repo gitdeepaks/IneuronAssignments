@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compare2Nums/Compare2Nums.iml" filepath="$PROJECT_DIR$/Compare2Nums/Compare2Nums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayDateFinder/DayDateFinder.iml" filepath="$PROJECT_DIR$/DayDateFinder/DayDateFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" filepath="$PROJECT_DIR$/EvenNumbers/EvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FehranhightToCelcius/FehranhightToCelcius.iml" filepath="$PROJECT_DIR$/FehranhightToCelcius/FehranhightToCelcius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeGeetings/GradeGeetings.iml" filepath="$PROJECT_DIR$/GradeGeetings/GradeGeetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsersionSort/InsersionSort.iml" filepath="$PROJECT_DIR$/InsersionSort/InsersionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessAPI/JavaNINEFeature.iml" filepath="$PROJECT_DIR$/ProcessAPI/JavaNINEFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" filepath="$PROJECT_DIR$/LargestOfThree/LargestOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MallURL/MallURL.iml" filepath="$PROJECT_DIR$/MallURL/MallURL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaternA/PaternA.iml" filepath="$PROJECT_DIR$/PaternA/PaternA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Progs.iml" filepath="$PROJECT_DIR$/.idea/Progs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNums/RandomNums.iml" filepath="$PROJECT_DIR$/RandomNums/RandomNums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+    </modules>
+  </component>
+</project>
