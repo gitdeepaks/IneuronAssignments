@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="900.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="438.0" layoutY="6.0" prefHeight="489.0" prefWidth="448.0" style="-fx-background-color: #27ae60#27ae60;">
+         <children>
+            <TextField layoutX="33.0" layoutY="184.0" prefHeight="26.0" prefWidth="398.0" promptText="Username">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <TextField layoutX="33.0" layoutY="232.0" prefHeight="26.0" prefWidth="398.0" promptText="Password">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </TextField>
+            <Button layoutX="33.0" layoutY="292.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="398.0" text="Get Started">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <Label layoutX="194.0" layoutY="92.0" text="Welcome to" textFill="#f2e8e8">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="168.0" layoutY="115.0" text="LearnCodeOnline" textFill="#ddd5d5">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <ImageView fitHeight="453.0" fitWidth="425.0" layoutX="8.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/Logo-lco-white.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="172.0" layoutY="447.0" prefHeight="30.0" prefWidth="101.0" text="Sign Up" textFill="#e1d2d2">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
